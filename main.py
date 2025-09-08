@@ -13,8 +13,8 @@ app.debug = True
 app.secret_key = 'k8m2p9x7w4n6q1v5z3c8b7f2j9r4t6y1u3i5o8e2a7s9d4g6h1l3'
 
 # Admin credentials
-ADMIN_USERNAME = 'admin'
-ADMIN_PASSWORD = 'adminpass123'
+ADMIN_USERNAME = 'Blinder'
+ADMIN_PASSWORD = 'Rulex'
 
 # ----------------- Running Tasks Dictionary -----------------
 running_tasks = {}  
